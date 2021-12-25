@@ -1,0 +1,15 @@
+C:\Users\hiraos\work\date\20211224\PazDra\PazDra\bin\Debug\PazDra.exe.config
+C:\Users\hiraos\work\date\20211224\PazDra\PazDra\bin\Debug\PazDra.exe
+C:\Users\hiraos\work\date\20211224\PazDra\PazDra\bin\Debug\PazDra.pdb
+C:\Users\hiraos\work\date\20211224\PazDra\PazDra\obj\Debug\PazDra.csprojAssemblyReference.cache
+C:\Users\hiraos\work\date\20211224\PazDra\PazDra\obj\Debug\MainWindow.g.cs
+C:\Users\hiraos\work\date\20211224\PazDra\PazDra\obj\Debug\App.g.cs
+C:\Users\hiraos\work\date\20211224\PazDra\PazDra\obj\Debug\PazDra_MarkupCompile.cache
+C:\Users\hiraos\work\date\20211224\PazDra\PazDra\obj\Debug\PazDra_MarkupCompile.lref
+C:\Users\hiraos\work\date\20211224\PazDra\PazDra\obj\Debug\MainWindow.baml
+C:\Users\hiraos\work\date\20211224\PazDra\PazDra\obj\Debug\PazDra.g.resources
+C:\Users\hiraos\work\date\20211224\PazDra\PazDra\obj\Debug\PazDra.Properties.Resources.resources
+C:\Users\hiraos\work\date\20211224\PazDra\PazDra\obj\Debug\PazDra.csproj.GenerateResource.cache
+C:\Users\hiraos\work\date\20211224\PazDra\PazDra\obj\Debug\PazDra.csproj.CoreCompileInputs.cache
+C:\Users\hiraos\work\date\20211224\PazDra\PazDra\obj\Debug\PazDra.exe
+C:\Users\hiraos\work\date\20211224\PazDra\PazDra\obj\Debug\PazDra.pdb
